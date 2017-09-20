@@ -15,30 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="include\Dreamland\Interface\IRuntimeModule.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\Dreamland\export.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\Dreamland\Interface\IApplication.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\Dreamland\Common\BaseApplication.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="include\Dreamland\Common\GraphicsManager.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="source\main.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="source\Common\BaseApplication.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="source\Common\GraphicsManager.cpp">
+    <ClCompile Include="helloworld_win.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
